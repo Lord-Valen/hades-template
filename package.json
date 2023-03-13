@@ -16,7 +16,7 @@
     "hades": "github:dustinlacewell/hades",
     "inversify": "^6.0.1",
     "reflect-metadata": "^0.1.13",
-    "sqlite3": "^5.0.8"
+    "sqlite3": "^5.1.5"
   },
   "devDependencies": {
     "@types/jest": "^28.1.3",
